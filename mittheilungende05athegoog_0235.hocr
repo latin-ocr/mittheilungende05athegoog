@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende05athegoog_0235.png"; bbox 0 0 3634 5575; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 335 657 3523 729">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 335 657 3523 729">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 657 3523 729; baseline 0 -15"><span class='ocrx_word' id='word_1_1' title='bbox 335 660 751 729; x_wconf 73' lang='lat' dir='ltr'><strong>Mittheilungon</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 788 660 882 715; x_wconf 77' lang='lat' dir='ltr'><strong>des</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 919 660 1182 718; x_wconf 77' lang='lat' dir='ltr'>archaeol.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1222 660 1508 714; x_wconf 70' lang='lat' dir='ltr'><strong>Institutas</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1548 660 1700 727; x_wconf 81' lang='lat'>1882.</span> <span class='ocrx_word' id='word_1_6' title='bbox 3269 657 3423 713; x_wconf 79' lang='lat' dir='ltr'><strong>Tafol</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3459 662 3523 714; x_wconf 91' lang='lat' dir='ltr'><strong>V.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 564 814 3250 4436">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 564 814 3250 4436">
+     <span class='ocr_line' id='line_1_2' title="bbox 564 814 3250 4436; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 564 814 3250 4436; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 858 4764 2987 4838">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 858 4764 2987 4838">
+     <span class='ocr_line' id='line_1_3' title="bbox 858 4764 2987 4838; baseline 0 -3"><span class='ocrx_word' id='word_1_9' title='bbox 858 4764 1554 4835; x_wconf 81' lang='grc' dir='ltr'>ΑΤΗΕΝΑΚΟΡΡ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1615 4766 1828 4834; x_wconf 83' lang='lat' dir='ltr'><strong>VOM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1906 4767 2987 4838; x_wconf 76' lang='grc' dir='ltr'>ΕυΒυΙ-ΙΟΕΞΟΕΝΚΜΑΙ..</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
