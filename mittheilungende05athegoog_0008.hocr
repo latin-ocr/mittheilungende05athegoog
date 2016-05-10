@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mittheilungende05athegoog/mittheilungende05athegoog_0008.png"; bbox 0 0 3634 5575; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1050 2997 2666 3044">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1050 2997 2666 3044">
+     <span class='ocr_line' id='line_1_1' title="bbox 1050 2997 2666 3044; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 1050 3007 1087 3044; x_wconf 78' lang='grc' dir='ltr'><strong>Δ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1101 3001 1154 3043; x_wconf 71' lang='lat' dir='ltr'><strong>th</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1167 3013 1227 3042; x_wconf 70' lang='lat' dir='ltr'><strong>on</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1239 3027 1256 3044; x_wconf 86' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1274 3019 1332 3033; x_wconf 89' lang='lat'><strong>-··</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1347 3000 1478 3042; x_wconf 68' lang='lat' dir='ltr'><strong>unck</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1505 3013 1582 3043; x_wconf 76' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1611 3001 1921 3044; x_wconf 60' lang='lat' dir='ltr'><strong>emanantia</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1943 3000 2140 3042; x_wconf 69' lang='lat' dir='ltr'><strong>rems,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2156 3020 2210 3032; x_wconf 94' lang='lat'>—</span> <span class='ocrx_word' id='word_1_11' title='bbox 2224 2997 2666 3042; x_wconf 62' lang='lat' dir='ltr'><strong>unicornium-rhu.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3580 5245 3625 5476">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3580 5193 3625 5476">
+     <span class='ocr_line' id='line_1_2' title="bbox 3580 5328 3598 5344; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 3580 5328 3598 5344; x_wconf 69' lang='grc' dir='ltr'><strong><em>μ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 3605 5245 3625 5476; textangle 90"><span class='ocrx_word' id='word_1_13' title='bbox 3621 5393 3624 5476; x_wconf 72' lang='lat'>-—-.</span> <span class='ocrx_word' id='word_1_14' title='bbox 3605 5307 3625 5348; x_wconf 48' lang='grc' dir='ltr'><strong>,ᾖ</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 3619 5245 3624 5288; x_wconf 56' lang='lat'><strong>,4</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
